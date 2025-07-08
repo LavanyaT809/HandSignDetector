@@ -36,24 +36,22 @@ cd HandSignDetector
 
 ### 2.Create a virtual environment
 python -m venv venv
+
 - For Linux/Mac
   
-  ```bash
 source venv/bin/activate
-```
+
 
 - For Windows
 
-  ```bash
 venv\Scripts\activate
-```
+
 
 ### 3. Install dependencies
 Install from requirements.txt:
 
-```bash
 pip install -r requirements.txt
-```
+
 ### 📁 Folder Structure
 HandSignDetector/
 ├── hand_tracker.py        # Main file for running the detector
@@ -73,3 +71,16 @@ HandSignDetector/
 
 -🌐 Deploy using Flask or Streamlit for web access
 
+### 🙋‍♀️ Author
+Lavanya Tuptewar
+
+### ⭐ Support & Contribution
+If you find this project helpful:
+
+🌟 Star this repository
+
+🐛 Raise an issue for bugs or suggestions
+
+🤝 Feel free to fork and submit a pull request
+
+Thank you for checking out Hand Sign Detector!
