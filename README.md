@@ -37,11 +37,13 @@ cd HandSignDetector
 ### 2.Create a virtual environment
 python -m venv venv
 - For Linux/Mac
+  
   ```bash
 source venv/bin/activate
 ```
 
 - For Windows
+
   ```bash
 venv\Scripts\activate
 ```
